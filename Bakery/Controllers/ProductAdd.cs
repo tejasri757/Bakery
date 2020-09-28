@@ -16,5 +16,9 @@ namespace Bakery.Controllers
         {
             return View();
         }
+        public IActionResult Price()
+        {
+            return View();
+        }
     }
 }
